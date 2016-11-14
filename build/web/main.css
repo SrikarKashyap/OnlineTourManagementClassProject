@@ -1,0 +1,12 @@
+.titleadmin {
+	color:darkred;
+	text-shadow: 1px 1px 2px black;
+}
+
+.titleadmin:hover{
+	color:black;
+}
+
+.headside  {
+	text-shadow: 1px 1px 2px black;
+}
